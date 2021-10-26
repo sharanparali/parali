@@ -1,0 +1,54 @@
+*
+{
+    margin: 0;
+    padding:0;
+
+}
+
+#facilities
+{
+    background-color: #dbe5e6;
+    padding: 30px 0px;
+}
+#facilities h1 
+{
+    font-size: 34px;
+    font-weight: 900;
+    padding-bottom: 5px;
+}
+.title
+{
+    text-align: center;
+    padding: 25px 0px;
+}
+
+body
+{
+    /* min-height: 100vh;
+    display: flex;
+    align-items: center; */
+    /* justify-content: center; */
+
+}
+
+
+.form-container
+{
+  position:relative;  
+ padding: 30px; 
+ top:50px;
+ bottom: 70px;
+/* left:500px;  */
+
+background:#fff;
+border-radius:10px;
+box-shadow: 0px 0px 10px 0px #000;
+}
+.bg
+{
+   background-image: url("../images/soft.jpg");
+    height: 400px;
+    background-repeat: no-repeat;
+    background-position: center;
+    /* background-size: 200%; */
+}
